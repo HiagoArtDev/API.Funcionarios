@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VYF69Wskkvimxl+2uB2HnEW7PxCBwxhLGGe6znEehW1qbHevXBAkn+0igP+UYTfl4HdBg34SeuejE18QhIZrZg==",
+  "dgSpecHash": "sA6nmd854jM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hiago Alves\\Desktop\\NOVOS_SISTEMAS\\CRUD_ANGULAR_ASP_NET_API\\WebAPI_Funcionarios\\WebAPI_Funcionarios.csproj",
+  "projectFilePath": "C:\\Users\\Hiago Alves\\Desktop\\1-NOVOS_SISTEMAS\\CRUD_ANGULAR_ASP_NET_API\\WebAPI_Funcionarios\\WebAPI_Funcionarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hiago Alves\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hiago Alves\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

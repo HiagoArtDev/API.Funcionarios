@@ -20,7 +20,7 @@ namespace WebAPI_Funcionarios.Services
 
             try
             {
-                serviceResponse.Dados = _context.Funcionarios.ToList();
+                serviceResponse.Dados = await _context.Funcionarios.ToListAsync();
 
                 if (serviceResponse.Dados.Count == 0 )
                 {
@@ -106,7 +106,7 @@ namespace WebAPI_Funcionarios.Services
 
             try
             {
-                FuncionarioModel funcionarioId = _context.Funcionarios.FirstOrDefault(x => x.Id == id);
+                FuncionarioModel funcionarioId = await _context.Funcionarios.FirstOrDefaultAsync(x => x.Id == id);
 
                 if (funcionarioId == null)
                 {
